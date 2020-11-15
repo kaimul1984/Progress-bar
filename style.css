@@ -15,8 +15,11 @@ body{
     
  }
  h1{
+
      margin-bottom: 15px;
      font-size: 2rem;
+    margin-bottom: 15%;
+     font-size: 3rem;
      letter-spacing: 0.7rem;
      text-transform: uppercase;
      text-align: center;
@@ -68,6 +71,8 @@ body{
     h1{
     margin-bottom: 25px;
      font-size: 1.7rem;
+    margin-bottom: 10px;
+     font-size: 1.5rem;
      letter-spacing: 0rem;
     }
     .container {
@@ -87,4 +92,3 @@ body{
         font-size: .80rem;
     }
 }
-
